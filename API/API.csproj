@@ -3,6 +3,13 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
     <AspNetCoreHostingModel>InProcess</AspNetCoreHostingModel>
+
+    <Authors>HunteRoi</Authors>
+    <Company>SpaceY</Company>
+    <RepositoryUrl>https://github.com/wearespacey/csharp-backend-boilerplate</RepositoryUrl>
+    <RepositoryType>template</RepositoryType>
+    <PackageTags>csharp, backend, api, automapper, swagger, openapi, boilerplate, hackathon</PackageTags>
+
   </PropertyGroup>
 
   <ItemGroup>
