@@ -56,7 +56,7 @@ namespace API.Infrastructure
                 Version = description.ApiVersion.ToString(),
                 Description = "An API documentation",
                 Contact = new Contact { Email = "tinael.devresse@mic-belgique.be" },
-                License = new License() { Name = "MIT", Url = "https://opensource.org/licenses/MIT" }
+                License = new License() { Name = "MIT", Url = "https://github.com/wearespacey/csharp-backend-boilerplate/blob/master/LICENSE" }
             };
 
             if (description.IsDeprecated)
