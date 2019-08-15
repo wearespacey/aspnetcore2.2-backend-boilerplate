@@ -2,7 +2,7 @@
 
 namespace DAL.Repositories
 {
-    public interface IRepository<T>
+    public interface IRepository<T, U>
     {
         /// <summary>
         /// Create and persist an entity in the database
